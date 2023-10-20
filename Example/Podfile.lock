@@ -1,0 +1,16 @@
+PODS:
+  - RTestB (0.1.0)
+
+DEPENDENCIES:
+  - RTestB (from `../`)
+
+EXTERNAL SOURCES:
+  RTestB:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RTestB: 5a1e6a0ff0548dffd5ccc3d7f262c6e87e8528af
+
+PODFILE CHECKSUM: 66b59ace238e769336132b8f38c6a595ec1ba9b3
+
+COCOAPODS: 1.11.3

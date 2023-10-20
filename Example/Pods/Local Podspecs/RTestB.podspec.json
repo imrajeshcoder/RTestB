@@ -1,0 +1,22 @@
+{
+  "name": "RTestB",
+  "version": "0.1.0",
+  "summary": "A short description of RTestB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/imrajeshcoder/RTestB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "imrajeshcoder": "rajesh.s@vrinsoft.com"
+  },
+  "source": {
+    "git": "https://github.com/imrajeshcoder/RTestB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RTestB/Classes/**/*"
+}
